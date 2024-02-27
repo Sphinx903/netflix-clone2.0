@@ -27,7 +27,7 @@ useEffect(() => {
         src='https://www.freepnglogos.com/uploads/netflix-logo-0.png' 
         alt=""/>
         <img 
-        className='nav_avator'
+          className='nav_avator'
         src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVnnH3JTon1kHctGnKQwu3TOdoNCLKbJ6D1VuGMxqZiA&s' 
         alt=""
         />
